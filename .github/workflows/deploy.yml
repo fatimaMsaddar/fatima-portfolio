@@ -24,7 +24,7 @@ jobs:
       - name: Fetch GitHub Data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node your_script.js # Run your script before deployment
+        run: node fetch.js # Run your script before deployment
 
       - name: Build Project
         run: npm run build
