@@ -1,7 +1,7 @@
 const fs = require("fs");
 const https = require("https");
 
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN; // GitHub Actions will inject this
+const GITHUB_TOKEN = process.env.MY_GITHUB_TOKEN; // GitHub Actions will inject this
 const GITHUB_USERNAME = "your_github_username"; // Replace with your actual GitHub username
 
 if (!GITHUB_TOKEN) {
