@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fatima-portfolio/static/css/main.2c6485bf.css",
-    "main.js": "/fatima-portfolio/static/js/main.b1e6b633.js",
+    "main.js": "/fatima-portfolio/static/js/main.def3bd8d.js",
     "static/css/64.bba8fa55.chunk.css": "/fatima-portfolio/static/css/64.bba8fa55.chunk.css",
     "static/js/64.4eaf7e3a.chunk.js": "/fatima-portfolio/static/js/64.4eaf7e3a.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/fatima-portfolio/static/css/769.b3cbb36b.chunk.css",
@@ -20,7 +20,7 @@
     "static/media/resume.pdf": "/fatima-portfolio/static/media/resume.f0f733dd3cd732b39262.pdf",
     "index.html": "/fatima-portfolio/index.html",
     "main.2c6485bf.css.map": "/fatima-portfolio/static/css/main.2c6485bf.css.map",
-    "main.b1e6b633.js.map": "/fatima-portfolio/static/js/main.b1e6b633.js.map",
+    "main.def3bd8d.js.map": "/fatima-portfolio/static/js/main.def3bd8d.js.map",
     "64.bba8fa55.chunk.css.map": "/fatima-portfolio/static/css/64.bba8fa55.chunk.css.map",
     "64.4eaf7e3a.chunk.js.map": "/fatima-portfolio/static/js/64.4eaf7e3a.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/fatima-portfolio/static/css/769.b3cbb36b.chunk.css.map",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.2c6485bf.css",
-    "static/js/main.b1e6b633.js"
+    "static/js/main.def3bd8d.js"
   ]
 }
