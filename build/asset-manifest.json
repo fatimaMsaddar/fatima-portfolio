@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/fatima-portfolio/static/css/main.2c6485bf.css",
+    "main.js": "/fatima-portfolio/static/js/main.b1e6b633.js",
+    "static/css/64.bba8fa55.chunk.css": "/fatima-portfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.4eaf7e3a.chunk.js": "/fatima-portfolio/static/js/64.4eaf7e3a.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/fatima-portfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.9fa73612.chunk.js": "/fatima-portfolio/static/js/769.9fa73612.chunk.js",
+    "static/media/enset.png": "/fatima-portfolio/static/media/enset.e53c32f77e57ce4f54b6.png",
+    "static/media/Agustina.woff": "/fatima-portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/contentsquareLogo.png": "/fatima-portfolio/static/media/contentsquareLogo.95d66bf88e1fc069948a.png",
+    "static/media/fms.png": "/fatima-portfolio/static/media/fms.bb53f6b0b1bc7553d61a.png",
+    "static/media/alstomLogo.png": "/fatima-portfolio/static/media/alstomLogo.fae33dc92faac2455880.png",
+    "static/media/airfranceLogo.png": "/fatima-portfolio/static/media/airfranceLogo.f45aadd6b2d75063e9ba.png",
+    "static/media/manOnTable.svg": "/fatima-portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/fatima-portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/fatima-portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/accoladeLogo.png": "/fatima-portfolio/static/media/accoladeLogo.689d1a862f584630b291.png",
+    "static/media/skill.svg": "/fatima-portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/resume.pdf": "/fatima-portfolio/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "index.html": "/fatima-portfolio/index.html",
+    "main.2c6485bf.css.map": "/fatima-portfolio/static/css/main.2c6485bf.css.map",
+    "main.b1e6b633.js.map": "/fatima-portfolio/static/js/main.b1e6b633.js.map",
+    "64.bba8fa55.chunk.css.map": "/fatima-portfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.4eaf7e3a.chunk.js.map": "/fatima-portfolio/static/js/64.4eaf7e3a.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/fatima-portfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.9fa73612.chunk.js.map": "/fatima-portfolio/static/js/769.9fa73612.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c6485bf.css",
+    "static/js/main.b1e6b633.js"
+  ]
+}
